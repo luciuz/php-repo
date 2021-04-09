@@ -10,4 +10,9 @@ class Sample
     {
         return true;
     }
+
+    public function getFalse(): bool
+    {
+        return false;
+    }
 }
