@@ -1,0 +1,20 @@
+{
+    "name": "luciuz/php-repo",
+    "description": "Skeleton for php project",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luciuz\\PhpRepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vasilii Arnautov",
+            "email": "epicgoods@gmail.com"
+        }
+    ]
+}
