@@ -13,7 +13,7 @@ class Sample
     }
 
     public function getFalse(): bool
-    {
+     {
         return false;
     }
 }
